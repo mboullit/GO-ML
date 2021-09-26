@@ -1,12 +1,12 @@
-# AI: ML
+# AI: TP ML
 This is the depository of AI project in Python. Welcome !
 
-The project consists on predicting winning/losing boards in GO game.
+The TP consists on predicting winning/losing boards in GO game.
 
 ## Team members
 
-- Boullit Mohamed Faycal
-- Elomari Alaoui Ismail
+- Boullit Mohamed Faycal (Sans Machine 2)
+- Elomari Alaoui Ismail  (Sans Machine 2)
 
 ## Arborescence
 
